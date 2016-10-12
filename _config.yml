@@ -8,7 +8,7 @@
 # Site settings
 title: wolfcrypt-py @ EXPOTEC 2016
 
-baseurl: "/expotec-wolfcrypt-py-press"
+baseurl: "/expotec-2016-wolfcrypt-py"
 url: "https://moisesguimaraes.github.io"
 
 email: moises@wolfssl.com
