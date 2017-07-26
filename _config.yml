@@ -8,8 +8,7 @@
 # Site settings
 title: Projeto Linguagem Marcação GRUDE-PB
 
-baseurl: ""
-url: "https://rencesar.github.io/grude-page/"
+baseurl: /
 
 email: ren_cesar@outlook.com
 
