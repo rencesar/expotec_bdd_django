@@ -249,6 +249,21 @@ body {
   border: 0;
   box-shadow: none; }
 
+.reveal section .insp{
+  background: none;
+  border: 0;
+  box-shadow: none;
+  display: flex;
+  background-size: cover;
+  background-attachment: scroll;
+  background-position: center;
+  height: 200vh;
+  min-height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .reveal a img {
   -webkit-transition: all .15s linear;
   -moz-transition: all .15s linear;
