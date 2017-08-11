@@ -31,7 +31,9 @@
     {% else %}
       <link rel="stylesheet" href="{{ "/css/theme.css" | prepend: site.baseurl }}" id="theme"/>
     {% endif %}
-    
+
+    <link href="/css/syntax.css" rel="stylesheet">
+
 
     <!-- Code syntax highlighting -->
     <link rel="stylesheet" href="{{ "/css/atom-one-dark.css" | prepend: site.baseurl }}"/>
@@ -55,7 +57,7 @@
   </head>
 
   <body>
-  
+
     <div class="reveal">
       <div class="slides">
         {{ content }}
@@ -90,6 +92,6 @@
       });
 
     </script>
-    
+
   </body>
 </html>
