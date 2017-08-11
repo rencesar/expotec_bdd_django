@@ -1,3 +1,4 @@
-# Projeto Blog Statico: GRUDE-PB
+# Apresentação Expotec - Pythonico com Django e BDD
 
-Esta apresentação contém conceitos que serão desenvolvidos no blog estático do GRUDE-PB, o mesmo sera desenvolvido por: Renato César e Pablo Dias.
+
+Este repositorio se refere a palestra sobre BDD com django dada na expotec por eu mesmo.

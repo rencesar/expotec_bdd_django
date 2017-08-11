@@ -8,7 +8,7 @@
 # Site settings
 title: Pythonico com Django e BDD
 
-baseurl: ""
+baseurl: /
 
 email: ren_cesar@outlook.com
 
